@@ -6,7 +6,7 @@ This package was created with a simple goal in mind - that is wrap the common hi
 
 *To use this package you will need to host the package in an internal nuget or public package feed - i.e like Visual Studio Team Services.*
 
-![Screenshot to Internal Package Feed](docs\teamservices.png)
+![Screenshot to Internal Package Feed](docs/teamservices.png)
 
 ## Tech Stack
 
