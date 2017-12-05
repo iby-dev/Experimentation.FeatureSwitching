@@ -8,7 +8,7 @@ This package was created with a simple goal in mind - that is wrap the common hi
 
 ![Screenshot to Internal Package Feed](docs/teamservices.PNG)
 
-*An example image of the same package hosted internally at work.*
+*An example of the same package hosted internally here at work.*
 
 ## Tech Stack
 
